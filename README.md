@@ -1,5 +1,5 @@
-# esinf_2014_exerciciosaulas
+# esinf_2014_exercicios
 
-Resolução dos Exercícios das Aulas TP e PL para a Unidade Curricular do 2ºAno - Estruturas da Informação (ESINF) da LEI-ISEP.
+Resolução dos exercícios da Unidade Curricular "Estruturas de Informação" (ESINF) do 2º Ano da [Licenciatura de Engenharia Informática](http://www.isep.ipp.pt/Course/Course/26) do [Instituto Superior de Engenharia do Porto](http://www.isep.ipp.pt) (LEI-ISEP).
 
-© [dnamorim](malito:dnamorim95@gmail.com), 2014
+© [Duarte Amorim](https://github.com/dnamorim), 2014
